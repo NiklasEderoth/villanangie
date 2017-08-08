@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26730.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VillaNangie.Web", "BlogNick.Web\VillaNangie.Web.csproj", "{DE229D60-88ED-49AC-8223-76F9097DFFA9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VillaNangie.Data", "VillaNangie.Data\VillaNangie.Data.csproj", "{649B1530-DB2A-48D7-BE8A-6129E5F04CB4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{DE229D60-88ED-49AC-8223-76F9097DFFA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE229D60-88ED-49AC-8223-76F9097DFFA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE229D60-88ED-49AC-8223-76F9097DFFA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{649B1530-DB2A-48D7-BE8A-6129E5F04CB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{649B1530-DB2A-48D7-BE8A-6129E5F04CB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{649B1530-DB2A-48D7-BE8A-6129E5F04CB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{649B1530-DB2A-48D7-BE8A-6129E5F04CB4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
